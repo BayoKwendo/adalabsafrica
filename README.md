@@ -1,7 +1,7 @@
 # adalabsafrica
 
-## home screen
-- to direct you to interfaces
+## simple first screen with three button that direct you to different UI screens
+
 ![alt text](first.jpg)
 
 ## first interface
