@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Adian</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Account</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">Next -></string>
+    <string name="skip">Skip</string>
+    <string name="start">GOT IT!</string>
+
+    <string name="slide_1_title">Welcome to Alice!</string>
+    <string name="slide_1_desc">Simple user experience meets personal finance of the future bscked by crypto!</string>
+
+    <string name="slide_2_title">Welcome 2</string>
+    <string name="slide_2_desc">Interface two!</string>
+
+    <string name="slide_3_title">Welcome 3</string>
+    <string name="slide_3_desc">Interface three!</string>
+
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_deposit">Deposit Amount</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="interface_three">Interface Three</string>
+    <string name="interface_two">Interface Two</string>
+    <string name="account">Account</string>
+    <string name="today">Today</string>
+
+</resources>
